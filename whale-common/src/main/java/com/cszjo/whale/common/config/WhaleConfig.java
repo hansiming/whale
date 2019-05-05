@@ -17,9 +17,7 @@ public class WhaleConfig extends PropertiesConfiguration {
     private static final String WHALE_SERVER_PORT = "whale.server.port";
     private static final int DEFAULT_WHALE_SERVER_PORT = 8077;
 
-
-
-    // forbid to instance out of class
+    // forbid to instance
     private WhaleConfig() {
 
     }

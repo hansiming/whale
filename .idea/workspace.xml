@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60f05d3-3fbe-441e-9af6-88754018b4ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/exception/ExceptionCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/exception/WhaleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/codec/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/rpc/DefaultRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/rpc/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/Spi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-core/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-provider/src/main/java/com/cszjo/whale/provider/WhaleServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-transport/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-transport/src/main/java/com/cszjo/whale/server/WhaleDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-transport/src/main/java/com/cszjo/whale/server/WhaleEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-transport/src/main/java/com/cszjo/whale/server/WhaleMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale-transport/src/main/java/com/cszjo/whale/server/WhaleServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whale.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,45 +28,96 @@
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2536" />
+          <entry key="gitignore" value="20" />
+          <entry key="java" value="2551" />
+          <entry key="txt" value="14" />
           <entry key="xml" value="312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2536" />
+          <entry key="JAVA" value="2551" />
+          <entry key="PLAIN_TEXT" value="34" />
           <entry key="XML" value="312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
-          <entry key="java" value="34" />
-          <entry key="xml" value="14" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="37" />
+          <entry key="xml" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="34" />
-          <entry key="XML" value="14" />
+          <entry key="JAVA" value="37" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+            <state relative-caret-position="945">
+              <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/Spi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -125,7 +157,6 @@
         <option value="$PROJECT_DIR$/whale-transport/src/main/java/com/cszjo/whale/server/WhaleMessage.java" />
         <option value="$PROJECT_DIR$/whale-transport/src/main/java/com/cszjo/whale/server/WhaleDecoder.java" />
         <option value="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/exception/ExceptionCode.java" />
-        <option value="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java" />
         <option value="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/rpc/Request.java" />
         <option value="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/rpc/DefaultRequest.java" />
         <option value="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiScope.java" />
@@ -134,8 +165,10 @@
         <option value="$PROJECT_DIR$/whale-core/pom.xml" />
         <option value="$PROJECT_DIR$/whale-common/pom.xml" />
         <option value="$PROJECT_DIR$/whale-core/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java" />
+        <option value="$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -158,7 +191,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-1920" />
     <option name="y" value="80" />
     <option name="width" value="1920" />
@@ -170,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -179,24 +213,65 @@
               <item name="whale" type="b2602c69:ProjectViewProjectNode" />
               <item name="whale" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name="whale-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name="whale-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name="whale-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="whale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="whale" type="462c0819:PsiDirectoryNode" />
+              <item name="whale-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="EchoSer&#9;FILE&#9;jar:///Users/hansiming/.m2/repository/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/example/echo/EchoServer.java&#10;ChannelPi&#9;PSI&#9;JAVA://io.netty.channel.ChannelPipeline&#10;ChannelInboundHandlerAdapter&#9;PSI&#9;JAVA://io.netty.channel.ChannelInboundHandlerAdapter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557040373278" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557042917622" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,8 +318,17 @@
       <workItem from="1555049567274" duration="8552000" />
       <workItem from="1555655330827" duration="740000" />
       <workItem from="1555934278592" duration="2601000" />
-      <workItem from="1556518204490" duration="14212000" />
+      <workItem from="1556518204490" duration="14743000" />
+      <workItem from="1557042051876" duration="448000" />
     </task>
+    <task id="LOCAL-00001" summary="add git ignore">
+      <created>1557042254836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557042254836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -262,20 +346,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29272000" />
+    <option name="totallyTimeSpent" value="30251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="80" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20127796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20340788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
@@ -284,9 +367,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -303,6 +387,13 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/whale" />
+    </ignored-roots>
+    <MESSAGE value="add git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git ignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
@@ -372,10 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -404,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="813">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,16 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-          <folding>
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,9 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,12 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -527,18 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#1535#1536#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,16 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-100">
@@ -580,26 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/whale-core/src/test/java/FileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/Spi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/whale-core/src/test/java/FileTest.java" />
     <entry file="file://$PROJECT_DIR$/whale-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -628,17 +652,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="945">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/whale-common/src/main/java/com/cszjo/whale/common/config/WhaleConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        <state relative-caret-position="285">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/Spi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whale-core/src/main/java/com/cszjo/whale/spi/SpiRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
