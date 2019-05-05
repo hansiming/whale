@@ -265,7 +265,7 @@
     <property name="SearchEverywhereHistoryKey" value="EchoSer&#9;FILE&#9;jar:///Users/hansiming/.m2/repository/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/example/echo/EchoServer.java&#10;ChannelPi&#9;PSI&#9;JAVA://io.netty.channel.ChannelPipeline&#10;ChannelInboundHandlerAdapter&#9;PSI&#9;JAVA://io.netty.channel.ChannelInboundHandlerAdapter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557042917622" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557042980030" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
