@@ -23,6 +23,7 @@
         <apache.common.version>3.7</apache.common.version>
         <apache.configuration.version>2.3</apache.configuration.version>
         <logback.version>1.2.3</logback.version>
+        <reflections.version>0.9.11</reflections.version>
     </properties>
 
     <dependencyManagement>
@@ -54,6 +55,13 @@
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-classic</artifactId>
                 <version>${logback.version}</version>
+            </dependency>
+
+            <!-- reflections -->
+            <dependency>
+                <groupId>org.reflections</groupId>
+                <artifactId>reflections</artifactId>
+                <version>${reflections.version}</version>
             </dependency>
 
             <!-- junit -->

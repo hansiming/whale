@@ -1,4 +1,4 @@
-package com.cszjo.whale.spi;
+package com.cszjo.whale.core.spi;
 
 public enum SpiScope {
 

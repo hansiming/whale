@@ -1,4 +1,4 @@
-package com.cszjo.whale.provider;
+package com.cszjo.whale.core.provider;
 
 public class WhaleServer {
 

@@ -1,4 +1,4 @@
-package com.cszjo.whale.spi;
+package com.cszjo.whale.core.spi;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

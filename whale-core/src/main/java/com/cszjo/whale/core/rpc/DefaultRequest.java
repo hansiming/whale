@@ -1,4 +1,4 @@
-package com.cszjo.whale.rpc;
+package com.cszjo.whale.core.rpc;
 
 public class DefaultRequest implements Request {
 

@@ -1,4 +1,4 @@
-package com.cszjo.whale.server;
+package com.cszjo.whale.core.server;
 
 import java.net.InetAddress;
 import java.util.concurrent.atomic.AtomicBoolean;
