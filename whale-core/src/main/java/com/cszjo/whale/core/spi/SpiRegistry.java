@@ -16,13 +16,13 @@ public class SpiRegistry {
 
     private static final Logger LOG =
             LoggerFactory.getLogger(SpiRegistry.class);
+    private static final String PACKAGE_PREFIX = "com.cszjo.whale";
 
     private Map<Class<?>, Set<Class<?>>> spi = Maps.newHashMap();
     private Map<Class<?>, Object> spiInstance = Maps.newConcurrentMap();
 
     private SpiRegistry() {
-
-        Reflections reflections = new Reflections("com.cszjo.whale");
+        Reflections reflections = new Reflections(PACKAGE_PREFIX);
         Set<Class<?>> spiClazz =
                 reflections.getTypesAnnotatedWith(Spi.class);
         for (Class c : spiClazz) {
